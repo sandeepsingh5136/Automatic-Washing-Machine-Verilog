@@ -18,3 +18,6 @@ The controller manages the sequential operations of an automated washing system 
 2. Copy the contents of `design.sv` into the **Design** panel.
 3. Copy the contents of `testbench.sv` into the **Testbench** panel.
 4. Run the simulation to observe state changes and testbench wave transitions.
+
+## 📊 Simulation Waveform
+![EPWave Simulation Result](waveform.png)
